@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260">
+  <defs>
+    <linearGradient id="grad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#e33b3b"/>
+      <stop offset="100%" stop-color="#991d1d"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="260" rx="20" ry="20" fill="url(#grad)"/>
+  <path d="M80 70 H320" stroke="#fff" stroke-width="10" stroke-linecap="round" opacity="0.85"/>
+  <path d="M80 120 H320" stroke="#fff" stroke-width="10" stroke-linecap="round" opacity="0.85"/>
+  <path d="M80 170 H320" stroke="#fff" stroke-width="10" stroke-linecap="round" opacity="0.85"/>
+  <circle cx="110" cy="70" r="18" fill="#fff"/>
+  <circle cx="170" cy="120" r="18" fill="#fff"/>
+  <circle cx="230" cy="170" r="18" fill="#fff"/>
+  <circle cx="290" cy="70" r="18" fill="#fff"/>
+  <circle cx="350" cy="120" r="18" fill="#fff"/>
+  <text x="50" y="235" fill="#fff" font-family="Arial, sans-serif" font-size="32" font-weight="700">REDCap</text>
+</svg>

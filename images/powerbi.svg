@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f2c80f"/>
+      <stop offset="100%" stop-color="#f29f05"/>
+    </linearGradient>
+    <linearGradient id="bars" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1b4c8f"/>
+      <stop offset="100%" stop-color="#2556b3"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="260" rx="20" ry="20" fill="url(#bg)"/>
+  <g opacity="0.95">
+    <rect x="60" y="140" width="40" height="70" rx="10" ry="10" fill="url(#bars)"/>
+    <rect x="120" y="110" width="40" height="100" rx="10" ry="10" fill="url(#bars)"/>
+    <rect x="180" y="90" width="40" height="120" rx="10" ry="10" fill="url(#bars)"/>
+    <rect x="240" y="70" width="40" height="140" rx="10" ry="10" fill="url(#bars)"/>
+    <rect x="300" y="120" width="40" height="90" rx="10" ry="10" fill="url(#bars)"/>
+  </g>
+  <path d="M50 50 H350" stroke="#ffffff" stroke-width="4" opacity="0.7"/>
+  <circle cx="80" cy="54" r="8" fill="#ffffff" opacity="0.8"/>
+  <circle cx="110" cy="54" r="8" fill="#ffffff" opacity="0.8"/>
+  <circle cx="140" cy="54" r="8" fill="#ffffff" opacity="0.8"/>
+  <text x="50" y="220" fill="#ffffff" font-family="Arial, sans-serif" font-size="32" font-weight="700">Power BI</text>
+</svg>
